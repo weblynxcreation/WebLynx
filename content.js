@@ -60,7 +60,7 @@ export const content = {
                 {
                     title: "Bistro Boréal",
                     category: "Site Web & Branding",
-                    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1470&auto=format&fit=crop"
+                    image: "file:///C:/Users/Al-Ameen/Downloads/Create%20a%20modern,%20min.png"
                 },
                 {
                     title: "TechNova Solutions",
